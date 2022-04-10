@@ -1,7 +1,10 @@
 ---
-title: "Título de tu blog post"
+title: "Mi aprendizaje en LaunchX"
 date: 2022-03-01
-description: 'Descripción de tu blog post'
+description: 'Te hablaré sobre mi experiencia en LaunchX'
 ---
 
-Hey! Este es el contenido del nuevo post, borra esto y llena tu contenido.
+Hola!
+Acerca de mi experiencia en este recorrido ha sido muy buena, he aprendido cosas que no sabía a pesar de que ya tengo algo de aprendizaje de los temas. Me gusta seguir aprendiendo de personas que tienen mucha experiencia y me motiva a seguir trabando duro.
+Los temas que hemos tocado son un poco de python, front-end aprendiendo Html, Css, Javascript además de Frameworks como Vue y Angular.
+Y actualmente estamos viendo Node Js.
